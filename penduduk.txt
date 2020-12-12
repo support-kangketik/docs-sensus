@@ -1,0 +1,5 @@
+# Biodata Penduduk
+##################
+No.      1
+Nama     Gilang Pratama Priadi
+Region   West Java, Indonesia

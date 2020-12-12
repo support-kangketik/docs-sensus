@@ -1,5 +1,9 @@
 # Biodata Penduduk
 ##################
-No.      1
-Nama     Gilang Pratama Priadi
-Region   West Java, Indonesia
+No.      : 1
+Nama     : Gilang Pratama Priadi
+Region   : West Java, Indonesia
+
+No       : 2
+Nama     : Developer Kangketik
+Region   : West Java, Indonesia

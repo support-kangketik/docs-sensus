@@ -1,2 +1,2 @@
 # docs-sensus
-Dokumen sensus penduduk organisasi.
+Dokumen sensus penduduk organisasi
